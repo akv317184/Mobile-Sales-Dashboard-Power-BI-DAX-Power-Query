@@ -30,6 +30,3 @@ This Power BI dashboard provides insights into mobile sales performance, revenue
 - Mobile_Sales_Dashboard.pbix
 - Dataset
 - Dashboard Screenshots
-
-## Author
-Your Name
